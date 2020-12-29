@@ -18,10 +18,10 @@ remote_theme : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data Analysis with M"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Mary_Go_Round"
 description              : "An amazing website."
 url                      : "https://yunni92.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -95,10 +95,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Mary Go Round"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an **Analyst** "
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
